@@ -1,13 +1,13 @@
+- name: Home
+  link: /
+  new_window: false
+  highlight: false
 - name: Blogs
   link: /blog/
   new_window: false
   highlight: false
 - name: Careers
   link: /careers/
-  new_window: false
-  highlight: false
-- name: Contact Us
-  link: /contact/
   new_window: false
   highlight: false
 - name: About
