@@ -1,7 +1,7 @@
 ---
 name: Jeremy Feng
-position: PMO
-image_path: /images/staffs/jeremy.jpg
+position: Project Manager
+image_path: /images/staffs/jeremy.png
 twitter: CloudCannonApp
-blurb: Project Manager
+blurb: PMO, MSS
 ---

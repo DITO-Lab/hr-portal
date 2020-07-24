@@ -1,7 +1,5 @@
 ---
 name:
-position:
+department:
 image_path:
-twitter:
-blurb:
 ---

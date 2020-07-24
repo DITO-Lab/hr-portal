@@ -1,7 +1,5 @@
 ---
 name: Financial Specialist
-position: Financial Department
+department: Financial Department
 image_path: /images/hr-specialist.jpg
-twitter:
-blurb:
 ---

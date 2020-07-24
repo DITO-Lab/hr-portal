@@ -1,7 +1,5 @@
 ---
 name: HR Specialist
-position: Human Resource
+department: Human Resource
 image_path: /images/hr-specialist.jpg
-twitter:
-blurb:
 ---
