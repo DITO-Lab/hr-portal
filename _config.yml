@@ -5,7 +5,7 @@ title: Life at DITO
 url: "https://dito-lab.github.io/hr-portal"
 baseurl: "https://dito-lab.github.io/hr-portal"
 google_analytics_key:
-google_maps_javascript_api_key: AIzaSyDXc7VSpIKQsaU0yo2Ya_EHzUccxZ6ecJU
+google_maps_javascript_api_key:
 disqus_shortname:
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
