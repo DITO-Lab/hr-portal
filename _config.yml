@@ -1,22 +1,22 @@
 # ----
 # Site
 
-title: Hydra Template
-url: "https://proud-alligator.cloudvent.net"
-baseurl:
+title: Home
+url: "https://dito-lab.github.io/hr-portal"
+baseurl: "https://dito-lab.github.io/hr-portal"
 google_analytics_key:
 google_maps_javascript_api_key:
 disqus_shortname:
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /siteicon.png
-description: Product marketing template for Jekyll.
+description: DITO Telecommunity's Employee Portal
 author:
   name:
   email:
-  twitter: # twitter username without the @ symbol
+  twitter: careersatDITO
 social:
-  name: Hydra Template
+  name: Life at DITO
   links:
     - https://github.com/CloudCannon/hydra-jekyll-template
 
@@ -27,6 +27,8 @@ timezone: Etc/UTC
 
 collections:
   staff_members:
+    _hide_content: true
+  careers:
     _hide_content: true
 
 paginate: 10
@@ -48,6 +50,15 @@ defaults:
     scope:
       path: ""
       type: "staff_members"
+    values:
+      _options:
+        image_path:
+          width: 600
+          height: 600
+  -
+    scope:
+      path: ""
+      type: "careers"
     values:
       _options:
         image_path:
